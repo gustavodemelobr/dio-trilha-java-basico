@@ -12,5 +12,6 @@ public class BoletimEstudantil {
             System.out.println("PROVA MINERVA");
         else
             System.out.println("APROVADO");
+    System.out.println("Obrigado por utilizar este aplicativo.");
     }
 }
